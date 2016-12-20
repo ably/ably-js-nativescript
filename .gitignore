@@ -1,0 +1,7 @@
+/.idea
+/demo-ably/node_modules/
+/demo-ably/platforms/
+/demo-unittesting/node_modules/
+/demo-unittesting/platforms/
+*.tar
+*.tgz

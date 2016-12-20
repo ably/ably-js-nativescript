@@ -1,0 +1,13 @@
+demo/
+demo-ably/
+demo-unittesting/
+node_modules/
+.git/
+.gitignore
+.idea/
+docs/
+*.tar
+*.tgz
+.npmignore
+!index.d.ts
+!dom-global.d.ts

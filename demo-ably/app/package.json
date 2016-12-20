@@ -1,0 +1,129 @@
+{
+  "_args": [
+    [
+      "tns-template-hello-world@2.4.1",
+      "D:\\projects\\nativescript\\repos\\nativescript-ably\\demo-ably"
+    ]
+  ],
+  "_from": "tns-template-hello-world@2.4.1",
+  "_id": "tns-template-hello-world@2.4.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/tns-template-hello-world",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/tns-template-hello-world-2.4.1.tgz_1480685193350_0.8442269971128553"
+  },
+  "_npmUser": {
+    "email": "hristo@deshev.com",
+    "name": "hdeshev"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "tns-template-hello-world",
+    "raw": "tns-template-hello-world@2.4.1",
+    "rawSpec": "2.4.1",
+    "scope": null,
+    "spec": "2.4.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tns-template-hello-world/-/tns-template-hello-world-2.4.1.tgz",
+  "_shasum": "a57d69893e0e69bc542f313892e6ee82649f5aa9",
+  "_shrinkwrap": null,
+  "_spec": "tns-template-hello-world@2.4.1",
+  "_where": "D:\\projects\\nativescript\\repos\\nativescript-ably\\demo-ably",
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "author": {
+    "email": "support@telerik.com",
+    "name": "Telerik"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/template-hello-world/issues"
+  },
+  "dependencies": {
+    "nativescript-theme-core": "^0.2.1"
+  },
+  "description": "Nativescript hello-world project template",
+  "devDependencies": {
+    "nativescript-dev-android-snapshot": "^0.*.*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "a57d69893e0e69bc542f313892e6ee82649f5aa9",
+    "tarball": "https://registry.npmjs.org/tns-template-hello-world/-/tns-template-hello-world-2.4.1.tgz"
+  },
+  "homepage": "https://github.com/NativeScript/template-hello-world",
+  "keywords": [
+    "telerik",
+    "mobile",
+    "nativescript",
+    "{N}",
+    "tns",
+    "appbuilder",
+    "template"
+  ],
+  "license": "Apache-2.0",
+  "main": "app.js",
+  "maintainers": [
+    {
+      "email": "vladimir.enchev@gmail.com",
+      "name": "enchev"
+    },
+    {
+      "email": "erjan.gavalji@gmail.com",
+      "name": "erjangavalji"
+    },
+    {
+      "email": "hfatme@gmail.com",
+      "name": "fatme"
+    },
+    {
+      "email": "rossen.hristov@progress.com",
+      "name": "hamorphis"
+    },
+    {
+      "email": "hristo@deshev.com",
+      "name": "hdeshev"
+    },
+    {
+      "email": "stefan.dobrev@gmail.com",
+      "name": "ligaz"
+    },
+    {
+      "email": "nedyalko.nikolov@telerik.com",
+      "name": "nsndeck"
+    },
+    {
+      "email": "stefan.dobrev@gmail.com",
+      "name": "sdobrev"
+    },
+    {
+      "email": "tailsu@gmail.com",
+      "name": "tailsu"
+    },
+    {
+      "email": "nativescript@telerik.com",
+      "name": "tns-bot"
+    },
+    {
+      "email": "valio.stoychev@gmail.com",
+      "name": "valio.stoychev"
+    }
+  ],
+  "name": "tns-template-hello-world",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NativeScript/template-hello-world.git"
+  },
+  "scripts": {},
+  "version": "2.4.1"
+}

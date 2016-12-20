@@ -1,0 +1,36 @@
+{
+  "name": "nativescript-ably",
+  "version": "0.9.0-beta.5",
+  "description": "Ably for NativeScript",
+  "typings": "ably.ts.d",
+  "main": "ably",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "homepage": "https://ably.io",
+  "readmeFilename": "README.md",
+  "license": "Apache-2.0",
+  "dependencies": {
+      "ably": "~0.9.0-beta.5",
+      "nativescript-websockets": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ably/nativescript-ably.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "ably",
+    "realtime",
+    "communication",
+    "messages",
+    "messaging"
+  ],
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    }
+  }
+}
