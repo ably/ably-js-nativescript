@@ -1,6 +1,6 @@
 {
   "name": "nativescript-ably",
-  "version": "0.9.0-beta.5",
+  "version": "0.9.0-beta.6",
   "description": "Ably for NativeScript",
   "typings": "ably.ts.d",
   "main": "ably",
@@ -12,7 +12,7 @@
   "readmeFilename": "README.md",
   "license": "Apache-2.0",
   "dependencies": {
-      "ably": "~0.9.0-beta.5",
+      "ably": "~0.9.0-beta.6",
       "nativescript-websockets": "latest"
   },
   "repository": {
