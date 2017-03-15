@@ -1,8 +1,8 @@
 {
   "name": "ably-nativescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ably for NativeScript",
-  "typings": "ably.ts.d",
+  "typings": "../ably/ably.d.ts",
   "main": "ably",
   "author": {
     "name": "Nathanael Anderson",
