@@ -18,13 +18,6 @@ var cwd = process.cwd() + '/';
 copyFolder(cwd + "node_modules/ably/spec/realtime", cwd + "app/tests/realtime");
 copyFolder(cwd + "node_modules/ably/spec/rest", cwd + "app/tests/rest");
 
-// Copy support files to the proper folder
-copyFolder(cwd + "node_modules/ably/spec/common/ably-common", cwd + "app/ably/ably-common");
-copyFolder(cwd + "node_modules/ably/spec/common/modules", cwd + "app/ably");
-
-// Copy the Main Ably JS file
-copyFile(cwd+"node_modules/ably/browser/static/", cwd + "app/ably/", "ably-nativescript.js");
-
 
 
 /**
