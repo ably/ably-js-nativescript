@@ -1,0 +1,20 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "author": {
+    "email": "nathan@master-technology.com",
+    "name": "Telerik"
+  },
+  "description": "Nativescript",
+  "keywords": [
+    "mobile",
+    "nativescript"
+  ],
+  "license": "Apache",
+  "main": "./tns_modules/nativescript-unit-test-runner/app.js",
+  "name": "demounittesting",
+  "optionalDependencies": {},
+  "scripts": {},
+  "version": "1.0.0"
+}

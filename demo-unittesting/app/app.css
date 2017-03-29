@@ -1,0 +1,23 @@
+﻿.landingContainer {
+    background-color: #3C5AFD;
+}
+
+.landingBackground {
+    horizontal-align: center;
+    vertical-align: top;
+    opacity: 0.3;
+}
+
+.runningText {
+    color: #fffe43;
+    horizontal-align: center;
+    vertical-align: center;
+    font-size: 24;
+
+}
+.landingText {
+    color: white;
+    horizontal-align: center;
+    vertical-align: center;
+    font-size: 24;
+}

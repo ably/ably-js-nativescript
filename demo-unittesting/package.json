@@ -1,0 +1,39 @@
+{
+  "description": "NativeScript Ably UnitTesting Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.unittestdemo",
+    "tns-android": {
+      "version": "2.5.0"
+    },
+    "hooks": [
+      {
+        "type": "before-prepare",
+        "script": "lib/ably-testcopy.js"
+      }
+      ]
+  },
+  "dependencies": {
+    "ably": "^1.0.2",
+    "ably-nativescript": "file:../",
+    "nativescript-hook": "^0.2.1",
+    "nativescript-unit-test-runner": "file:./nativescript-unit-test-runner-0.3.4.tgz",
+    "nativescript-websockets": "latest",
+    "tns-core-modules": "^2.5.2"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.18.0",
+    "babel-types": "6.18.0",
+    "babylon": "6.13.1",
+    "chai": "^3.5.0",
+    "karma": "^1.3.0",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^1.2.0",
+    "karma-nsnodeunit": "latest",
+    "karma-nativescript-launcher": "^0.4.0",
+    "lazy": "1.0.11",   
+    "mocha": "^3.1.2"
+  }
+}

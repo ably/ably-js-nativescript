@@ -1,6 +1,6 @@
 "use strict";
 const Observable = require('data/observable').Observable;
-const Ably = require('nativescript-ably');
+const Ably = require('./ably-nativescript');
 
 
 let page, obs = new Observable({text: '', results: ''});

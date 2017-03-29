@@ -1,0 +1,8 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+    <ActionBar title="Ably Unit Testing App"/>
+    <StackLayout cssClass="landingContainer">
+        <Label text=""/>
+        <Label text="To run tests, type:" class="landingText"/>
+        <Label text="tns test android" class="runningText"/>
+    </StackLayout>
+</Page>
