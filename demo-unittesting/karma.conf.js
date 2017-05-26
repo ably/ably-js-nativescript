@@ -70,7 +70,8 @@ module.exports = function(config) {
       }
     },
 
-	browserNoActivityTimeout: 100000, 
+	// This set of tests is too long for Activity Timeout
+	browserNoActivityTimeout: 0, 
 	
     // Continuous Integration mode
     // if true, Karma captures browsers, runs the tests and exits
