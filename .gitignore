@@ -18,3 +18,4 @@ platforms/
 *.tar
 *.tgz
 
+/demo-unittesting/.jshintrc
