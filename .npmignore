@@ -4,6 +4,7 @@ demo-unittesting/
 node_modules/
 .git/
 .gitignore
+.travis.yml
 .idea/
 docs/
 *.tar

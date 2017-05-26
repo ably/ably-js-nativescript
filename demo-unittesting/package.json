@@ -1,13 +1,10 @@
 {
   "description": "NativeScript Ably UnitTesting Application",
-  "license": "SEE LICENSE IN <your-license-filename>",
-  "readme": "NativeScript Application",
+  "license": "MIT",
+  "readme": "NativeScript Ably UnitTesting Application",
   "repository": "<fill-your-repository-here>",
   "nativescript": {
     "id": "org.nativescript.unittestdemo",
-    "tns-android": {
-      "version": "2.5.0"
-    },
     "hooks": [
       {
         "type": "before-prepare",

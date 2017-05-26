@@ -32,5 +32,9 @@
       "android": "2.0.0",
       "ios": "2.0.0"
     }
+  },
+  "scripts": {
+    "setup": "cd demo-unittesting && npm i && tns platform add android@~2.5.0 && tns build android && cd .."
+	"test": "cd demo-unittesting && tns test android"
   }
 }
