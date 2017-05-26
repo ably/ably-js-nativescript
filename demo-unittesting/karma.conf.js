@@ -73,9 +73,12 @@ module.exports = function(config) {
 	// This set of tests is too long for Activity Timeout
 	browserNoActivityTimeout: 0, 
 	
+	// This isn't a browser; so disconnects are not a failure. 
+	browserDisconnectTolerance: 1000,
+	
     // Continuous Integration mode
     // if true, Karma captures browsers, runs the tests and exits
-    singleRun: true
+    singleRun: false
   });
 };
 
