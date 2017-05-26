@@ -34,7 +34,7 @@
     }
   },
   "scripts": {
-    "setup": "cd demo-unittesting && npm i && tns platform add android@~2.5.0 && tns build android && cd .."
+    "setup": "cd demo-unittesting && npm i && tns platform add android@~2.5.0 && tns build android && cd ..",
 	"test": "cd demo-unittesting && tns test android"
   }
 }
