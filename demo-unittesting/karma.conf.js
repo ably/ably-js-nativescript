@@ -71,7 +71,7 @@ module.exports = function(config) {
     },
 
 	// This set of tests is too long for Activity Timeout
-	browserNoActivityTimeout: 20000, 
+	browserNoActivityTimeout: 0, 
 	
 	// This isn't a browser; so disconnects are not a failure. 
 	browserDisconnectTolerance: 1000,
