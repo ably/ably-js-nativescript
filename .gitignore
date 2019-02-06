@@ -5,3 +5,4 @@
 /demo-unittesting/platforms/
 *.tar
 *.tgz
+node_modules
