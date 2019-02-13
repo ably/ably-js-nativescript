@@ -4,7 +4,7 @@
 
 A Nativescript client library for [Ably Realtime](https://www.ably.io), a realtime data delivery platform.
 
-This repo is a wrapper for the [ably-js client library](https://github.com/ably/ably-js) which introduces a dependency needed by Nativescript. See the [ably-js README](https://github.com/ably/ably-js) for usage details of the [ably-js client library](https://github.com/ably/ably-js). This library currently targets the [Ably 1.1 client library specification](https://www.ably.io/documentation/client-lib-development-guide/features/). You can jump to the '[Known Limitations](#known-limitations)' section to see the features this client library does not yet support or visit the [Feature Support Matrix](https://www.ably.io/feature-support-matrix) to see the list of all the available features.
+This repo is a wrapper for the [ably-js client library](https://github.com/ably/ably-js) which introduces a dependency needed by Nativescript. See the [ably-js README](https://github.com/ably/ably-js) for usage details of the [ably-js client library](https://github.com/ably/ably-js). This wrapper currently targets the [Ably 1.1 client library specification](https://www.ably.io/documentation/client-lib-development-guide/features/). You can jump to the '[Known Limitations](#known-limitations)' section to see the features this client library does not yet support or visit the [Feature Support Matrix](https://www.ably.io/feature-support-matrix) to see the list of all the available features.
 
 For complete API documentation, see the [Ably Realtime documentation](https://www.ably.io/documentation).
 
