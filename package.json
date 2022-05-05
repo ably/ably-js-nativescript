@@ -1,6 +1,6 @@
 {
   "name": "ably-nativescript",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Ably for NativeScript",
   "typings": "../ably/ably.d.ts",
   "main": "ably",
@@ -12,8 +12,8 @@
   "readmeFilename": "README.md",
   "license": "Apache-2.0",
   "dependencies": {
-      "ably": "^1.1.0",
-      "nativescript-websockets": "latest"
+    "ably": "^1.1.0",
+    "nativescript-websockets": "latest"
   },
   "repository": {
     "type": "git",
