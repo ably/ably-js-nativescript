@@ -1,6 +1,6 @@
 {
   "name": "ably-nativescript",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Ably for NativeScript",
   "typings": "../ably/ably.d.ts",
   "main": "ably",
