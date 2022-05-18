@@ -12,7 +12,7 @@
   "readmeFilename": "README.md",
   "license": "Apache-2.0",
   "dependencies": {
-    "ably": "^1.2.21",
+    "ably": "^1.2.22",
     "nativescript-websockets": "latest"
   },
   "repository": {
