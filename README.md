@@ -30,6 +30,8 @@ Installation from tns:
 tns plugin add ably-nativescript
 ```
 
+---
+
 ## Usage
 
 To use Realtime features:
@@ -43,3 +45,11 @@ To use Rest features:
 ```javascript
 var realtime = require('ably-nativescript').Rest;
 ```
+
+---
+
+## Releases
+
+You can view all Ably releases on [changelog.ably.com](https://changelog.ably.com).
+
+---
