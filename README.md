@@ -3,6 +3,19 @@
 
 ---
 
+# Ably Pub/Sub NativeScript SDK
+
+Build any realtime experience using Ably’s Pub/Sub NativeScript SDK, supported on all popular platforms and frameworks.
+
+Ably Pub/Sub provides flexible APIs that deliver features such as pub-sub messaging, message history, presence, and push notifications. Utilizing Ably’s realtime messaging platform, applications benefit from its highly performant, reliable, and scalable infrastructure.
+
+Find out more:
+
+* [Ably Pub/Sub docs.](https://ably.com/docs/basics)
+* [Ably Pub/Sub examples.](https://ably.com/examples?product=pubsub)
+
+---
+
 ## How to use this library
 
 ### Installation from npm
