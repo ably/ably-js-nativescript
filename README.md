@@ -15,34 +15,34 @@ Find out more:
 * [Ably Pub/Sub examples.](https://ably.com/examples?product=pubsub)
 
 ---
+ 
+## Installation
 
-## How to use this library
+Install from npm:
 
-### Installation from npm
+```bash
+npm install ably-nativescript
+```
 
-    npm install ably-nativescript
+Installation from tns:
 
-### Installation from tns
+```bash
+tns plugin add ably-nativescript
+```
 
-    tns plugin add ably-nativescript
+## Usage
 
-### Usage
-
-For the realtime library:
+To use Realtime features:
 
 ```javascript
 var realtime = require('ably-nativescript').Realtime;
 ```
 
-For the rest-only library:
+To use Rest features:
 
 ```javascript
 var realtime = require('ably-nativescript').Rest;
 ```
-
-### API usage, tests, contributing, etc.
-
-See [the ably-js repo](https://github.com/ably/ably-js).
 
 ## FAQs
 
