@@ -53,3 +53,7 @@ var realtime = require('ably-nativescript').Rest;
 You can view all Ably releases on [changelog.ably.com](https://changelog.ably.com).
 
 ---
+
+## Support, Feedback, and Troubleshooting
+
+For help or technical support, visit the [Ably Support page](https://ably.com/support) or [GitHub Issues](https://github.com/ably/ably-js-nativescript/issues) for community-reported bugs and discussions.
