@@ -1,3 +1,4 @@
+![Ably Pub/Sub NativeScript Header](/images/NativeScriptSDK-github.png)
 ![npm](https://img.shields.io/npm/v/ably-nativescript.svg)
 ![License](https://badgen.net/github/license/ably/ably-JS-nativescript)
 
