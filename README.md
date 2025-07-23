@@ -1,49 +1,60 @@
-# [Ably](https://www.ably.com)
+![Ably Pub/Sub NativeScript Header](/images/NativeScriptSDK-github.png)
+![npm](https://img.shields.io/npm/v/ably-nativescript.svg)
+![License](https://badgen.net/github/license/ably/ably-JS-nativescript)
 
-_[Ably](https://ably.com) is the platform that powers synchronized digital experiences in realtime. Whether attending an event in a virtual venue, receiving realtime financial information, or monitoring live car performance data – consumers simply expect realtime digital experiences as standard. Ably provides a suite of APIs to build, extend, and deliver powerful digital experiences in realtime for more than 250 million devices across 80 countries each month. Organizations like Bloomberg, HubSpot, Verizon, and Hopin depend on Ably’s platform to offload the growing complexity of business-critical realtime data synchronization at global scale. For more information, see the [Ably /documentation](https://ably.com/docs)._
+---
 
-This is a Nativescript client library for Ably.
+# Ably Pub/Sub NativeScript SDK
 
-This repo is a wrapper for the [ably-js client library](https://github.com/ably/ably-js) which introduces a dependency needed by Nativescript. See the [ably-js README](https://github.com/ably/ably-js) for usage details of the [ably-js client library](https://github.com/ably/ably-js).
+Build any realtime experience using Ably’s Pub/Sub NativeScript SDK, supported on all popular platforms and frameworks.
 
-For complete API documentation, see the [Ably Realtime documentation](https://www.ably.io/documentation).
+Ably Pub/Sub provides flexible APIs that deliver features such as pub-sub messaging, message history, presence, and push notifications. Utilizing Ably’s realtime messaging platform, applications benefit from its highly performant, reliable, and scalable infrastructure.
 
-## How to use this library
+Find out more:
 
-### Installation from npm
+* [Ably Pub/Sub docs.](https://ably.com/docs/basics)
+* [Ably Pub/Sub examples.](https://ably.com/examples?product=pubsub)
 
-    npm install ably-nativescript
+---
+ 
+## Installation
 
-### Installation from tns
+Install from npm:
 
-    tns plugin add ably-nativescript
+```bash
+npm install ably-nativescript
+```
 
-### Usage
+Installation from tns:
 
-For the realtime library:
+```bash
+tns plugin add ably-nativescript
+```
+
+---
+
+## Usage
+
+To use Realtime features:
 
 ```javascript
 var realtime = require('ably-nativescript').Realtime;
 ```
 
-For the rest-only library:
+To use Rest features:
 
 ```javascript
 var realtime = require('ably-nativescript').Rest;
 ```
 
-### API usage, tests, contributing, etc.
+---
 
-See [the ably-js repo](https://github.com/ably/ably-js).
+## Releases
 
-## FAQs
+You can view all Ably releases on [changelog.ably.com](https://changelog.ably.com).
 
-### Is this repo actively maintained?
+---
 
-Yes, this repo typically has very few recent commits because this repo doesn't do very much: it's a very thin wrapper around [the ably-js repo](https://github.com/ably/ably-js).
+## Support, Feedback, and Troubleshooting
 
-## License
-
-Copyright (c) 2017 Ably Real-time Ltd, Licensed under the Apache License, Version 2.0.  Refer to [LICENSE](LICENSE) for the license terms.
-
-[![npm](https://img.shields.io/npm/v/ably-nativescript.svg)](https://www.npmjs.com/package/ably-nativescript)
+For help or technical support, visit the [Ably Support page](https://ably.com/support) or [GitHub Issues](https://github.com/ably/ably-js-nativescript/issues) for community-reported bugs and discussions.
