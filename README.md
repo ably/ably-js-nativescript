@@ -1,6 +1,8 @@
 ![Ably Pub/Sub NativeScript Header](/images/NativeScriptSDK-github.png)
-![npm](https://img.shields.io/npm/v/ably-nativescript.svg)
-![License](https://badgen.net/github/license/ably/ably-JS-nativescript)
+[![npm](https://img.shields.io/npm/v/ably-nativescript.svg)
+](https://www.npmjs.com/package/ably-nativescript)
+[![License](https://badgen.net/github/license/ably/ably-JS-nativescript)
+](https://github.com/ably/ably-js-nativescript/blob/main/LICENSE)
 
 ---
 
@@ -14,6 +16,14 @@ Find out more:
 
 * [Ably Pub/Sub docs.](https://ably.com/docs/basics)
 * [Ably Pub/Sub examples.](https://ably.com/examples?product=pubsub)
+
+---
+
+## Getting started
+
+Everything you need to get started with Ably:
+
+* [Getting started in Pub/Sub.](https://ably.com/docs/getting-started)
 
 ---
  
@@ -55,6 +65,12 @@ You can view all Ably releases on [changelog.ably.com](https://changelog.ably.co
 
 ---
 
-## Support, Feedback, and Troubleshooting
+## Contributing
+
+Read the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines to contribute to Ably.
+
+---
+
+## Support, feedback, and troubleshooting
 
 For help or technical support, visit the [Ably Support page](https://ably.com/support) or [GitHub Issues](https://github.com/ably/ably-js-nativescript/issues) for community-reported bugs and discussions.
